@@ -1,0 +1,7 @@
+{
+  "name": "pushtida",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
